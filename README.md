@@ -8,6 +8,9 @@ Este repositorio es el punto de partida para **llevar el desarrollo de la web de
 versionar código, documentación y prototipos que hasta ahora vivían en WordPress, Google Drive y
 sesiones de trabajo con Claude.
 
+📚 **Documentación completa en [`docs/`](docs/README.md)**: arquitectura, marca, procesos operativos,
+inventario, campañas y registro de decisiones.
+
 ---
 
 ## 1. Contexto del proyecto
