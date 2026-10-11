@@ -1,0 +1,28 @@
+{
+  "name": "gtn-video",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GTN Global Tax News — broadcast remaster built with Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render GTN out/GTN_Global_Tax_News_remaster.mp4",
+    "prepare-media": "bash scripts/prepare-media.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.534",
+    "@remotion/google-fonts": "^4.0.534",
+    "@remotion/renderer": "^4.0.534",
+    "d3-geo": "^3.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.534",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/react": "^18.3.31",
+    "@types/topojson-client": "^3.1.5",
+    "typescript": "^7.0.2"
+  }
+}
